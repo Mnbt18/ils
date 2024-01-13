@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+.shopp{
+  position: absolute;
+  top: 75%;
+  left: 10%;
+  font-size: 18px;
+  background: #AD1F23;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  padding: 13px 30px;
+  border-radius: 11px;
+  transition: 0.5s;
+}
+.shopp:hover{
+  background: #000;
+  border: 1px solid #4070f4;
+}
