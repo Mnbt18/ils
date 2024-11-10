@@ -28,7 +28,7 @@ yesBtn.addEventListener("click", () => {
 });
 
 function goToNextPage() {
-    window.location.href = "index.html";
+    window.location.href = "inde.html";
 }
 
 noBtn.addEventListener("mouseover", () => {
